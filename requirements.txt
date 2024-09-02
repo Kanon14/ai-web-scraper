@@ -1,0 +1,9 @@
+streamlit 
+langchain 
+langchain_ollama
+google.generativeai
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
