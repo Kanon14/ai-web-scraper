@@ -10,7 +10,7 @@ This is a simple project focuses on web-scraper with an LLM model prompting for 
 - Anaconda or Miniconda installed on your machine
 - A chromedriver installed on your machine
 - An ollama installed on your machine. [[download link](https://ollama.com/download)]
-- Install LLM model compatible with your machine, information cab be found in [Ollama](https://github.com/ollama/ollama)
+- Install LLM model compatible with your machine, information can be found in [Ollama](https://github.com/ollama/ollama)
 
 ### Installation
 1. Clone the repository:
